@@ -1,5 +1,5 @@
 import React from 'react';
-import experience from '../../../experience'
+import experience from '../../experience.js'
 
 const Page = () => {
   return (
