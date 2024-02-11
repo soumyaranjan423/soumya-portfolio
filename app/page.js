@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-// import Image from "next/image"
+
 import Soumya from "../public/soumya-removebg-preview.png";
 
 export default function Home() {
@@ -29,7 +29,7 @@ export default function Home() {
           />
         </div>
       </div>
-      {/* <div></div> */}
+    
     </main>
   );
 }
